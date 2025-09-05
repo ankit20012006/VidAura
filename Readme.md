@@ -13,6 +13,4 @@ This repository contains the backend code for our web development experiment, bu
 
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
-## License
 
-This project is licensed under the MIT
