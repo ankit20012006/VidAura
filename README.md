@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Backend Code
 
 This repository contains the backend code for our web development experiment, built with JavaScript.
@@ -15,4 +14,4 @@ This repository contains the backend code for our web development experiment, bu
 
 - [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
->>>>>>> f2c0f48 (add initial files for backend)
+ f2c0f48 (add initial files for backend)
