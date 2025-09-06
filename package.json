@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit20012006/VidAura.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Ankit Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankit20012006/VidAura/issues"
+  },
+  "homepage": "https://github.com/ankit20012006/VidAura#readme"
+}
