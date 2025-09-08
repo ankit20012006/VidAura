@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ankit20012006/VidAura/issues"
   },
-  "homepage": "https://github.com/ankit20012006/VidAura#readme"
+  "homepage": "https://github.com/ankit20012006/VidAura#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
